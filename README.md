@@ -1,1 +1,1 @@
-A project to merge and analyize mass comments and petitions.
+A project to merge and analyze mass comments and petitions.
